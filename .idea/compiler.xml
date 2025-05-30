@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="voting_system.centralSystem" target="17" />
+      <module name="voting_system.centralSystem.main" target="17" />
+      <module name="voting_system.centralSystem.test" target="17" />
+      <module name="voting_system.votingStation" target="17" />
+      <module name="voting_system.votingStation.main" target="17" />
+      <module name="voting_system.votingStation.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

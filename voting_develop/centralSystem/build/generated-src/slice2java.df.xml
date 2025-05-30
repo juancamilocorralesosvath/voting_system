@@ -1,12 +1,13 @@
 <state>
-  <timestamp value='1748009909589' />
+  <timestamp value='1748630203185' />
   <sourceSet name='default'>
-    <source name='/home/swarch/new/voting_system/voting_develop/VotingSystem.ice'>
-      <file name='/home/swarch/new/voting_system/voting_develop/centralSystem/build/generated-src/Voting/Printer.java' />
-      <file name='/home/swarch/new/voting_system/voting_develop/centralSystem/build/generated-src/Voting/PrinterPrx.java' />
-      <file name='/home/swarch/new/voting_system/voting_develop/centralSystem/build/generated-src/Voting/_PrinterPrxI.java' />
+    <source name='/Users/vania/Desktop/juan/icesi/VI/ingesoftiv/entrega_final/voting_system/voting_develop/VotingSystem.ice'>
+      <file name='/Users/vania/Desktop/juan/icesi/VI/ingesoftiv/entrega_final/voting_system/voting_develop/centralSystem/build/generated-src/election/VoteMessage.java' />
+      <file name='/Users/vania/Desktop/juan/icesi/VI/ingesoftiv/entrega_final/voting_system/voting_develop/centralSystem/build/generated-src/election/ReliableMessageReceiver.java' />
+      <file name='/Users/vania/Desktop/juan/icesi/VI/ingesoftiv/entrega_final/voting_system/voting_develop/centralSystem/build/generated-src/election/ReliableMessageReceiverPrx.java' />
+      <file name='/Users/vania/Desktop/juan/icesi/VI/ingesoftiv/entrega_final/voting_system/voting_develop/centralSystem/build/generated-src/election/_ReliableMessageReceiverPrxI.java' />
     </source>
-    <arg value='/opt/Ice-3.7.9/bin/slice2java' />
-    <arg value='-I/opt/Ice-3.7.9/slice' />
+    <arg value='/opt/homebrew/Cellar/ice/3.7.10/bin/slice2java' />
+    <arg value='-I/opt/homebrew/Cellar/ice/3.7.10/share/ice/slice' />
   </sourceSet>
 </state>

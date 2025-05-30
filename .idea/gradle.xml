@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/voting_develop" />
+        <option name="gradleJvm" value="homebrew-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/voting_develop" />
+            <option value="$PROJECT_DIR$/voting_develop/centralSystem" />
+            <option value="$PROJECT_DIR$/voting_develop/reliableProxy" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

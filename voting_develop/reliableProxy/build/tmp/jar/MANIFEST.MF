@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ReliableProxy
+Class-Path: ice-3.7.10.jar
+
